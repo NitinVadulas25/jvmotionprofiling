@@ -13,6 +13,7 @@ public class Constants {
     public static final int RED_LED_ID = 2;
     public static final int YELLOW_LED_ID = 3;
 
+
     public static final int SPARK_ID = 0;
     public static final int[] ENCODER_IDS = {1,2};
 
